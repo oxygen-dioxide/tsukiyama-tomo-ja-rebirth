@@ -1,0 +1,6 @@
+name=Tsukiyama Tomo JP ReBirth
+image=Tomo_icon.bmp
+autor:HuroNomoe
+voice:HuroNomoe
+icon:reivunsinda
+sample=tomo demo song.wav
